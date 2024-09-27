@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "6efWT5iuA0s=",
+  "dgSpecHash": "kimD8JXvzDM=",
   "success": true,
-  "projectFilePath": "C:\\Layza\\Grupo-3\\WebApplication1\\WebApplication1.csproj",
-=======
-  "dgSpecHash": "9ftb0mGG+oI=",
-  "success": true,
-  "projectFilePath": "C:\\sagastegui\\Grupo-3\\WebApplication1\\WebApplication1.csproj",
->>>>>>> 7f893af5182639fa5b4602b6b16a3942b1e86c94
+  "projectFilePath": "C:\\Terrones\\Grupo-3\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Terrones\\Grupo-3\\WebApplication1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
