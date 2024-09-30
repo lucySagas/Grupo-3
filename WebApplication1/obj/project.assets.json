@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\R13T_\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO ZS 2.0\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Terrones\\Grupo-3\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\jhon\\Grupo-3\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Terrones\\Grupo-3\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\R13T_\\.nuget\\packages\\",
-      "outputPath": "C:\\Terrones\\Grupo-3\\WebApplication1\\obj\\",
+      "projectPath": "C:\\jhon\\Grupo-3\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\USUARIO ZS 2.0\\.nuget\\packages\\",
+      "outputPath": "C:\\jhon\\Grupo-3\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\R13T_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO ZS 2.0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -73,13 +78,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Terrones\\Grupo-3\\WebApplication1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
